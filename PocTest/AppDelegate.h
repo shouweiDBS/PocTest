@@ -2,15 +2,12 @@
 //  AppDelegate.h
 //  PocTest
 //
-//  Created by admin on 5/10/16.
+//  Created by admin on 5/11/16.
 //  Copyright © 2016 admin. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <GD/GDiOS.h>
-#import <Google/CloudMessaging.h>
-
-
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate, GDiOSDelegate>
 {

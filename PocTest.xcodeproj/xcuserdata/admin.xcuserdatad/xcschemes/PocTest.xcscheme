@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "843ACE9F1CE1DC54003DAF5A"
+               BlueprintIdentifier = "84BE49D51CE2DB68006914E2"
                BuildableName = "PocTest.app"
                BlueprintName = "PocTest"
                ReferencedContainer = "container:PocTest.xcodeproj">
@@ -28,31 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "843ACEDA1CE1DC55003DAF5A"
-               BuildableName = "PocTestTests.xctest"
-               BlueprintName = "PocTestTests"
-               ReferencedContainer = "container:PocTest.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "843ACEE51CE1DC55003DAF5A"
-               BuildableName = "PocTestUITests.xctest"
-               BlueprintName = "PocTestUITests"
-               ReferencedContainer = "container:PocTest.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "843ACE9F1CE1DC54003DAF5A"
+            BlueprintIdentifier = "84BE49D51CE2DB68006914E2"
             BuildableName = "PocTest.app"
             BlueprintName = "PocTest"
             ReferencedContainer = "container:PocTest.xcodeproj">
@@ -75,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "843ACE9F1CE1DC54003DAF5A"
+            BlueprintIdentifier = "84BE49D51CE2DB68006914E2"
             BuildableName = "PocTest.app"
             BlueprintName = "PocTest"
             ReferencedContainer = "container:PocTest.xcodeproj">
@@ -94,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "843ACE9F1CE1DC54003DAF5A"
+            BlueprintIdentifier = "84BE49D51CE2DB68006914E2"
             BuildableName = "PocTest.app"
             BlueprintName = "PocTest"
             ReferencedContainer = "container:PocTest.xcodeproj">
