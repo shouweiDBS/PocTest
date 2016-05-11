@@ -358,6 +358,7 @@
 		};
 		84BE4A101CE2DB68006914E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 84BE49FB1CE2DB68006914E2 /* default.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -375,6 +376,7 @@
 		};
 		84BE4A111CE2DB68006914E2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 84BE49FB1CE2DB68006914E2 /* default.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
