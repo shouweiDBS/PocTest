@@ -31,6 +31,16 @@
 
     // Show the Good Authentication UI.
     [_good authorize];
+    
+    
+    
+    UIUserNotificationType allNotificationTypes =
+    (UIUserNotificationTypeSound | UIUserNotificationTypeAlert | UIUserNotificationTypeBadge);
+    UIUserNotificationSettings *settings =
+    [UIUserNotificationSettings settingsForTypes:allNotificationTypes categories:nil];
+    [[UIApplication sharedApplication] registerUserNotificationSettings:settings];
+    [[UIApplication sharedApplication] registerForRemoteNotifications];
+    
 
     return YES;
 }

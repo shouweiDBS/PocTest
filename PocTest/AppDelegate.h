@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <GD/GDiOS.h>
+#import <Google/CloudMessaging.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate, GDiOSDelegate>
 {
