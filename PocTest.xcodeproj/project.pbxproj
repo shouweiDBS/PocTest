@@ -317,7 +317,6 @@
 		};
 		84BE4A0E1CE2DB68006914E2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 84BE49FB1CE2DB68006914E2 /* default.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -359,7 +358,6 @@
 		};
 		84BE4A101CE2DB68006914E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 84BE49FB1CE2DB68006914E2 /* default.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
